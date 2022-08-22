@@ -9,8 +9,8 @@
 - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
   - Most of the vulverabilites found were due to using older libraries. In the future I would like ot use penetration testing for this.
 - How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
-  - FOr this class I lived in the debugger. After refactoring I ran another vulernability test to make sure no new vulnerabilites were introduced into the code. 
+  - For this class I lived in the debugger. After refactoring I ran another vulernability test to make sure no new vulnerabilites were introduced into the code. 
 - What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
   - My go to place for help when I am stuck is Stackoverflow. I found myself here often throught the course. 
 - Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
-  - THe use of my hash function to incorporate SHA-256 in my code. 
+  - The use of my hash function to incorporate SHA-256 in my code. 
